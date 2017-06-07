@@ -4,9 +4,6 @@
 	"author": "sheetjs",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
 	"keywords": [ "excel", "xls", "xlsx", "xlsb", "xlsm", "ods", "office", "spreadsheet" ],
-	"bin": {
-		"xlsx": "./bin/xlsx.njs"
-	},
 	"main": "./xlsx",
 	"dependencies": {
 		"ssf":"~0.8.1",
